@@ -54,7 +54,7 @@ This project uses the Diabetes Dataset and applies data preprocessing, feature s
 2. **Data Analysis**
    - Statistical summary & class distribution
 3. **Data Preprocessing**
-   - Feature scaling using `StandardScaler`
+   - Feature scaling using StandardScaler
 4. **Train-Test Split**
    - 80% Training, 20% Testing
 5. **Model Training**
