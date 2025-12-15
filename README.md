@@ -15,7 +15,7 @@ This project uses the Diabetes Dataset and applies data preprocessing, feature s
 🧠 Machine Learning Algorithm Used
 
 - Support Vector Machine (SVM)
-  - Kernel: `Linear`
+  - Kernel: Linear
   - Reason: Works well for binary classification problems and high-dimensional data
 
 ---
@@ -23,7 +23,7 @@ This project uses the Diabetes Dataset and applies data preprocessing, feature s
 📂 Dataset Details
 
 - Source: Diabetes Dataset
-- Target Variable: `Outcome`
+- Target Variable: Outcome
   - `0` → Non-Diabetic
   - `1` → Diabetic
 
