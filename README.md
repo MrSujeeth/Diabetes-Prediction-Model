@@ -1,18 +1,18 @@
-🩺 Diabetes Prediction Model using Machine Learning
+Diabetes Prediction Model using Machine Learning
 
 This project is a Machine Learning-based Diabetes Prediction System** developed using Python and Support Vector Machine (SVM).  
 The model predicts whether a person is diabetic or non-diabetic based on medical diagnostic parameters.
 
 ---
 
-📌 Project Overview
+ Project Overview
 
 Diabetes is a chronic disease that requires early detection for effective management.  
 This project uses the Diabetes Dataset and applies data preprocessing, feature standardization, and SVM classification to build an accurate prediction system.
 
 ---
 
-🧠 Machine Learning Algorithm Used
+ Machine Learning Algorithm Used
 
 - Support Vector Machine (SVM)
   - Kernel: Linear
@@ -20,7 +20,7 @@ This project uses the Diabetes Dataset and applies data preprocessing, feature s
 
 ---
 
-📂 Dataset Details
+ Dataset Details
 
 - Source: Diabetes Dataset
 - Target Variable: Outcome
@@ -37,7 +37,7 @@ This project uses the Diabetes Dataset and applies data preprocessing, feature s
 
 ---
 
- ⚙️ Technologies & Libraries
+  Technologies & Libraries
 
 - Python 🐍
 - NumPy
@@ -47,7 +47,7 @@ This project uses the Diabetes Dataset and applies data preprocessing, feature s
 
 ---
 
- 🔄 Project Workflow
+  Project Workflow
 
 1. **Data Collection**
    - Load dataset using Pandas
@@ -66,7 +66,7 @@ This project uses the Diabetes Dataset and applies data preprocessing, feature s
 
 ---
 
- 📊 Model Performance
+  Model Performance
 
 - Training Accuracy:** ~78–80%
 - Testing Accuracy:** ~75–78%
