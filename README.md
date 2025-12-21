@@ -81,4 +81,3 @@ Jupyter Notebook 📓
 🟢 Training Accuracy: ~78–80%
 
 🔵 Testing Accuracy: ~75–78%
-(Accuracy may vary slightly due to random state and dataset variations)
